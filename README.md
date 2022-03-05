@@ -15,3 +15,11 @@ VR game, first attempt of Unreal and VR game in small team
 #### * Customize the environment and skins *(Not in the prototype)*
 
 
+## Credit :
+Created by : CAFFIAUX Matis, HECK Mike, LAVARDE Camille, LEFEBVRE Tom
+
+April 2021, UQAC, CA
+
+> Made with *Unreal version 4.26.2* \
+> Plateforms supported : Windows
+> Technologies used : Oculus Quest 2
