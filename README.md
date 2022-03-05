@@ -1,5 +1,5 @@
 # VR Learn Japanese Hiragana and Katagana
-VR game for UQAC class
+VR game, first attempt of Unreal and VR game in small team
 
 # WORK IN PROGRESS
 
