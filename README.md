@@ -21,5 +21,5 @@ Created by : CAFFIAUX Matis, HECK Mike, LAVARDE Camille, LEFEBVRE Tom
 April 2021, UQAC, CA
 
 > Made with *Unreal version 4.26.2* \
-> Plateforms supported : Windows
+> Plateforms supported : Windows \
 > Technologies used : Oculus Quest 2
