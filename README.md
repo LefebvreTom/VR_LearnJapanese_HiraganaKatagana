@@ -1,4 +1,4 @@
-# VR Learn Japanese Hiragana and Katagana
+# VR Learn Japanese Hiragana and Katakana
 VR game, first attempt of Unreal and VR game in small team
 
 # WORK IN PROGRESS
@@ -8,7 +8,7 @@ VR game, first attempt of Unreal and VR game in small team
 
 #### * Recognize the drawing with a Neural network with a training
 
-#### * Ear the meaning of a hiragana/Katagana
+#### * Ear the meaning of a hiragana/Katakana
 
 #### * Help with the learning of JLPT (1, 2 and 3) *(Not in the prototype)*
 
