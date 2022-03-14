@@ -7,6 +7,7 @@ VR game, first attempt of Unreal and VR game in small team
 #### * Write in 3D but create a picture in 2D with the draw
 
 #### * Recognize the drawing with a Neural network with a training
+See the CNN about recognition of katakana for more details
 
 #### * Ear the meaning of a hiragana/Katakana
 
